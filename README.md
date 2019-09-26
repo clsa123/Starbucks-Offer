@@ -1,12 +1,12 @@
 # Starbucks-Offer
 
-# Motication
+## Motication
 
 The goal of this project is to build a machine learning model to predict whether a customer will response to an offer or not by leveraging data engineering and data scientist skills.
 
-# Description
+## Description
 
-## Data Sets
+### Data Sets
 The data is contained in three files:
 
 portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.)
@@ -36,8 +36,10 @@ person (str) - customer id
 time (int) - time in hours since start of test. The data begins at time t=0
 value - (dict of strings) - either an offer id or transaction amount depending on the record
 
-## Model
+### Model
 
 BOGO Offer Model
+
 Discount Offer Model
+
 Informational Offer Model
