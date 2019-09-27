@@ -43,3 +43,33 @@ BOGO Offer Model
 Discount Offer Model
 
 Informational Offer Model
+
+### Library
+
+Pandas
+
+Numpy
+
+Seaborn
+
+Scikit-learn
+
+## Files
+
+Data: contains 3 json files
+
+Starbucks_Capstone_notebook.ipynb: python script for the project
+
+## Summary
+
+Accuracy: 
+
+BOGO Offer Model: 0.83
+
+Discount Offer Model: 0.835
+
+informational offer model: 0.741
+
+## Acknowledgements
+
+Thanks Starbucks and Udacity for sharing the data
